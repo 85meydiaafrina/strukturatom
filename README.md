@@ -1,0 +1,2 @@
+# strukturatom
+struktur atom
